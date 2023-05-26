@@ -1,21 +1,47 @@
----
-- name: Darpan(NITI Aayog)
-  description: The registry of NPOs maintained by NITI Aayog. NPOs with FCRA and those taking government funding are required to register and update their profiles.
-  url: "http://ngodarpan.gov.in/index.php/home"
-  categories: [Statutory Reporting]
+- name: NPO Sector Survey, Phase II (Open now)
+  description: Link to take the NPO Survey 2022 - 23
+  url: https://www.surveymonkey.com/r/NPOsurvey2022-GSI
+  categories: [NPO Sector Studies]
   style: [sans-serif]
-  mood: [headings, oblique, paragraph, sans, grotesque, sans, humanist]
 
-- name: Acre
-  description: Acre is a geometric sans-serif family of eight weights that’s both inspired by and named after my great grandfather, Tex Acre. 
-  url: "https://www.fontsquirrel.com/fonts/acre"
-  categories: [Professional]
+- name: NPO Survey 2022-23- Preliminary Results
+  description: Prelimnary findings of the NPO Survey from Phase I of NPO Survey 2022 - 23
+  url: https://guidestarindia.org.in/India_CSO_Reports.aspx
+  categories: [NPO Sector Studies]
   style: [sans-serif]
-  mood: [corporate, monolinear, paragraph, sans, geometric]
-  
-- name: AnuDaw
-  description: A funky font designed by Nyek! Pinoy Komik Fonts.
-  url: https://www.fontsquirrel.com/fonts/AnuDaw
-  categories: [Funky]
-  style: [comic]
-  mood: [brush, comic, display, grunge, handwritten]
+
+- name: NPO Sector Contribution to GDP
+  description: Chapter on Macroeconomic Contribution of NPO Sector to Indian Economy 
+  url: Chapter on Macroeconomic Contribution of NPO Sector to Indian Economy 
+  categories: [NPO Sector Studies]
+  style: [sans-serif]
+
+- name: Jaipur Litfest Launch Event Video
+  description: Video of the launch event at the Jaipur Literature Festival in January 2023
+  url: https://youtu.be/6AH3KAXYAN0?t=3878
+  categories: [NPO Sector Studies]
+  style: [sans-serif]
+
+- name: Changing the narrative - Panel at DPW
+  description: Discussion about the past, present and future of the Civil Society Organisations in India
+  url: https://www.youtube.com/live/RpK147Gfwvg?feature=share
+  categories: [NPO Sector Studies]
+    style: [sans-serif]
+
+- name: MOSPI Report on Non Profit Institutions in India 2012 
+  description: Non Profit Institutions Study done by Ministry of Statistics of India. Published in 2012
+  url: http://ccss.jhu.edu/wp-content/uploads/downloads/2012/10/India_SatelliteAccount_2007-2010.pdf
+  categories: [NPO Sector Studies]
+  style: [sans-serif]
+
+- name: Doing Good Index, 2024 (Open Now)
+  description: Link to take the DGI 2024 Survey
+  url: https://www.surveymonkey.com/r/DGI-India-2024
+  categories: [NPO Sector Studies]
+  style: [sans-serif]
+
+- name: Doing Good Index, 2022 Report
+  description: Doing Good Index Report of 2022
+  url: https://doinggoodindex.caps.org
+  categories: [NPO Sector Studies]
+  style: [sans-serif]
