@@ -24,7 +24,7 @@
 		<header class="header">
 			<a href="#" id="burger"><span></span><span></span><span></span></a>
 			<div class="logo">
-				<a href="/"><img src="static/logo.svg" alt="{{ config.site_name }}" /></a>
+				<a href="/"><img src="static/thumb.png" alt="{{ config.site_name }}" /></a>
 				<p class="slogan">{{ config.site_description }}</p>
 			</div>
 			<div class="intro">
@@ -79,7 +79,9 @@
 							{% endfor %}
 						>
 							<h2 class="title">
-								<a href="{{ e.url }}" rel="noreferrer noopener" class="link">{{ e.name }}</a>
+  								<div class="curved-box">
+									<a href="{{ e.url }}" rel="noreferrer noopener" class="link">{{ e.name }}</a>
+								</div>
 							</h2>
 							<p class="description">{{ e.description }}</p>
 

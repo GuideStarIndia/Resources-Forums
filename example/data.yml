@@ -26,7 +26,7 @@
   description: Discussion about the past, present and future of the Civil Society Organisations in India
   url: https://www.youtube.com/live/RpK147Gfwvg?feature=share
   categories: [NPO Sector Studies]
-    style: [sans-serif]
+  style: [sans-serif]
 
 - name: MOSPI Report on Non Profit Institutions in India 2012 
   description: Non Profit Institutions Study done by Ministry of Statistics of India. Published in 2012
@@ -46,7 +46,7 @@
   categories: [NPO Sector Studies]
   style: [sans-serif]
 
- name: Darpan(NITI Aayog)
+- name: Darpan(NITI Aayog)
   description: The registry of NPOs maintained by NITI Aayog. NPOs with FCRA and those taking government funding are required to register and update their profiles.
   url: "http://ngodarpan.gov.in/index.php/home"
   categories: [Statutory Reporting]
