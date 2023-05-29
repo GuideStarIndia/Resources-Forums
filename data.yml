@@ -2,141 +2,118 @@
   description: Link to take the NPO Survey 2022 - 23
   url: https://www.surveymonkey.com/r/NPOsurvey2022-GSI
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: NPO Survey 2022-23- Preliminary Results
   description: Prelimnary findings of the NPO Survey from Phase I of NPO Survey 2022 - 23
   url: https://guidestarindia.org.in/India_CSO_Reports.aspx
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: NPO Sector Contribution to GDP
   description: Chapter on Macroeconomic Contribution of NPO Sector to Indian Economy 
   url: Chapter on Macroeconomic Contribution of NPO Sector to Indian Economy 
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: Jaipur Litfest Launch Event Video
   description: Video of the launch event at the Jaipur Literature Festival in January 2023
   url: https://youtu.be/6AH3KAXYAN0?t=3878
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: Changing the narrative - Panel at DPW
   description: Discussion about the past, present and future of the Civil Society Organisations in India
   url: https://www.youtube.com/live/RpK147Gfwvg?feature=share
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: MOSPI Report on Non Profit Institutions in India 2012 
   description: Non Profit Institutions Study done by Ministry of Statistics of India. Published in 2012
   url: http://ccss.jhu.edu/wp-content/uploads/downloads/2012/10/India_SatelliteAccount_2007-2010.pdf
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: Doing Good Index, 2024 (Open Now)
   description: Link to take the DGI 2024 Survey
   url: https://www.surveymonkey.com/r/DGI-India-2024
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: Doing Good Index, 2022 Report
   description: Doing Good Index Report of 2022
   url: https://doinggoodindex.caps.org
   categories: [NPO Sector Studies]
-  style: [sans-serif]
 
 - name: Darpan(NITI Aayog)
   description: The registry of NPOs maintained by NITI Aayog. NPOs with FCRA and those taking government funding are required to register and update their profiles.
   url: "http://ngodarpan.gov.in/index.php/home"
   categories: [Statutory Reporting]
-  style: [sans-serif]
   tags: [Darpan]
 
 - name: Income Tax
   description: The Income Tax Department is a government agency undertaking direct tax collection of the Government of India. It functions under the Department of Revenue of the Ministry of Finance.
   url: "https://incometaxindiaefiling.gov.in/"
   categories: [Statutory Reporting]
-  style: [sans-serif]
   tags: [IT]
 
 - name: FCRA
   description: Official online portal for registration and management of Foreign Contribution (Regulation) Act (FCRA) activities in India.
   url: "https://fcraonline.nic.in/home/index.aspx"
   categories: [Statutory Reporting]
-  style: [sans-serif]
   tags: [FCRA]
 
 - name: Maharashtra Charity Commissioner
   description: The Charity Commissioner of Maharashtra is the regulator of public trusts in the state of Maharashtra, India. The office of the Charity Commissioner is located in Mumbai.
   url: "https://charity.maharashtra.gov.in/en-us/"
   categories: [Statutory Reporting]
-  style: [sans-serif]
   tags: [CC]
 
 - name: Gujarat Charity Commissioner
   description: The Charity Commissioner of Gujarat is the regulator of public trusts in the state of Gujarat, India. The office of the Charity Commissioner is located in Ahmedabad.
   url: "https://charitycommissioner.gujarat.gov.in/"
   categories: [Statutory Reporting]
-  style: [sans-serif]
   tags: [CC]
 
 - name: About GuideStar India Certification
   description: What is GuideStar India Certification, types, benefits, process
   url: "http://www.guidestarindia.org/SiteImages/Certifications/GSICertificationBrochure.pdf"
   categories: [GuideStar India Certification]
-  style: [sans-serif]
 
 - name: Certified NGOs with Active Certification List
   description: Full list of GuideStarIndia Platinum, Gold and Silver Certified NGOs with Active Certification Status
   url: "https://guidestarindia.org.in/SiteImages/Certifications/GuideStarIndiaPlatinumGoldSilverCertifiedNGOswithActiveCertificationStatus.pdf"
   categories: [GuideStar India Certification]
-  style: [sans-serif]
 
 - name: KYC Verified NGOs with Active Certification Status
   description: Full list of  KYC NGOs with Active Certification Status
   url: "https://guidestarindia.org.in/SiteImages/Certifications/GuideStarIndiaKYCVerifiedNGOswithActiveCertificationStatus.pdf"
   categories: [GuideStar India Certification]
-  style: [sans-serif]
 
 - name: Platinum Certified NGOs
   description: Full list of Platinum Cerified NGOs
   url: "https://guidestarindia.org.in/SiteImages/Certifications/GuideStarIndiaCertifiedPlatinumList.pdf"
   categories: [GuideStar India Certification]
-  style: [sans-serif]
 
 - name: Gold/ Silver Certified NGOs
   description: Full list of Gold/ Silver Certified NGOs
   url: "https://guidestarindia.org.in/SiteImages/Certifications/GuideStarIndiaCertifiedGoldandSilverList.pdf"
   categories: [GuideStar India Certification]
-  style: [sans-serif]
 
 - name: KYC Verified NGOs
   description: Full list of KYC Verified NGOs
   url: "https://guidestarindia.org.in/SiteImages/Certifications/GuideStarIndiaCertifiedTransparencyKeyList.pdf"
   categories: [GuideStar India Certification]
-  style: [sans-serif]
 
 - name: Introduction to Social Stock Exchange (SSE)
   description: A brief introduction of the genesis of social stock exchange, what is the social stock exchange, who the players are and what are the opportunities and obligations for NPOs
   url: "https://youtu.be/kZF1qsr-1ak"
   categories: [Social Stock Exchange]
-  style: [sans-serif]
 
 - name: Resources for more information about SSE
   description: GuideStar India's page with resource links and reads for SSE
   url: "https://guidestarindia.org/SSE.aspx"
   categories: [Social Stock Exchange]
-  style: [sans-serif]
 
 - name: BSE Social Stock Exchange site
   description: Official site for the BSE - SSE
   url: "https://www.bsesocialstockexchange.com/"
   categories: [Social Stock Exchange]
-  style: [sans-serif]
 
 - name: NSE Social Stock Exchange site
   description: Official site for the NSE - SSE
   url: "https://www.nseindia.com/sse"
   categories: [Social Stock Exchange]
-  style: [sans-serif]
