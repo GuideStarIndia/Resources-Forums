@@ -279,15 +279,3 @@ footer {
 		}
 }
 
-.curved-box {
-    border: 1px solid #080f44;
-    border-radius: 10px;
-    padding: 2px;
-	font-size: medium;
-	font-weight: bolder;
-    max-width: max; /* Adjust the value as per your requirements */
-    overflow: hidden;
-    text-overflow: ellipsis;
-	background-color: #dde1ed;
-	color: #2e2d2b;
-  }
