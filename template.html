@@ -47,29 +47,8 @@
 		</section>
 
 		<section class="content">
-			{% if (taxonomies | length) > 0 %}
-				<a href="#" id="toggle-filters">Filter &rarr;</a>
-			{% endif %}
 			<section class="section" id="organisations">
 				<h3>{{ category.name }} ({{ category.count }})</h3>
-
-				<div class="filters" id="filters">
-					{% if (taxonomies | length) > 0 %}
-							{% for tx in taxonomies %}
-								<div class="group filter-{{ tx }}">
-									<h4 class="taxonomy">{{ tx }}</h4>
-									<a href="#" class="toggle-filters" data-taxonomy="{{ tx }}" data-state="on">&larr; Toggle</a>
-									{% for t in taxonomies[tx] %}
-										<label for="filter-{{ tx }}-{{ t.slug }}">
-											<input type="checkbox" id="filter-{{ tx }}-{{ t.slug }}"
-												data-taxonomy="{{ tx }}"
-												value="{{ t.slug }}" checked />{{ t.name }}
-										</label>
-									{% endfor %}
-								</div>
-							{% endfor %}
-					{% endif %}
-				</div>
 
 				<ul id="items">
 					{% for e in entries %}
