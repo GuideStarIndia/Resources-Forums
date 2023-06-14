@@ -1,5 +1,5 @@
 ---
-base_url: "https://GuideStarIndia.github.io/Resources-Forums/site/index.html"
+base_url: "https://GuideStarIndia.github.io/Resources-Forums/index.html"
 static_dir: "static"
 per_page: 50
 
@@ -12,6 +12,6 @@ per_page: 50
 taxonomies: ["style", "mood"]
 
 site_name: "My directory site"
-site_description: "GuideStar India is India’s largest and most reliable NGO information repository."
+site_description: "GuideStar India is India's largest and most reliable NGO information repository."
 page_title: "{category} - Directory of cool things."
-meta_description: "Directory of {category} in cool things. "
+meta_description: "Directory of {category} in cool things."
