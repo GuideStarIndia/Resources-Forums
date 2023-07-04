@@ -13,5 +13,5 @@ taxonomies: ["style", "mood"]
 
 site_name: "My directory site"
 site_description: "GuideStar India is India's largest and most reliable NGO information repository."
-page_title: "{category} - Directory of cool things."
-meta_description: "Directory of {category} in cool things."
+page_title: "{category} - GSI"
+meta_description: "GuideStarIndia Resources page."
