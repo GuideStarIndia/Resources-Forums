@@ -105,7 +105,7 @@
 
 - name: Resources for more information about SSE
   description: GuideStar India's page with resource links and reads for SSE
-  url: "https://resources.guidestarindia.org/"
+  url: "https://guidestarindia.frappe.cloud/files/SSE%20Resources.pdf"
   categories: [Social Stock Exchange]
 
 - name: BSE Social Stock Exchange site
