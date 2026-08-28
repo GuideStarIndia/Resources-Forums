@@ -103,28 +103,24 @@
   url: "https://youtu.be/kZF1qsr-1ak"
   categories: [Social Stock Exchange]
 
-- name: Resources for more information about SSE
+- name: 8 - Resources for more information about SSE
   description: GuideStar India's page with resource links and reads for SSE
   url: "https://guidestarindia.frappe.cloud/files/SSE-Resources.pdf"
   categories: [Social Stock Exchange]
 
 - name: 2 - BSE SSE Homepage
-  description: 
   url: "https://www.bsesocialstockexchange.com/"
   categories: [Social Stock Exchange]
 
 - name: 4 - NSE SSE Homepage
-  description: 
   url: "https://www.nseindia.com/static/sse"
   categories: [Social Stock Exchange]
   
 - name: "3 - BSE Disclosures by NPOs:"
-  description:
   url: "https://www.bsesocialstockexchange.com/DisclosureDisplay.aspx"
   categories: [Social Stock Exchange]
 
 - name: "5 - NSE Disclosures by NPOs:"
-  description:
   url: "https://www.nseindia.com/companies-listing/corporate-filings-announcements"
   categories: [Social Stock Exchange]
 
@@ -134,7 +130,6 @@
   categories: [Social Stock Exchange]
 
 - name: 7 - GuideStar India Resources for SSE
-  description:
   url: "https://resources.guidestarindia.org/social-stock-exchange.html"
   categories: [Social Stock Exchange]
 
