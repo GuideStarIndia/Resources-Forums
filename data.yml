@@ -98,7 +98,7 @@
   url: "https://guidestarindia.org.in/SiteImages/Certifications/GuideStarIndiaCertifiedTransparencyKeyList.pdf"
   categories: [GuideStar India Certification]
 
-- name: Introduction to Social Stock Exchange (SSE)
+- name: 1 - Introduction to Social Stock Exchange (SSE)
   description: A brief introduction of the genesis of social stock exchange, what is the social stock exchange, who the players are and what are the opportunities and obligations for NPOs
   url: "https://youtu.be/kZF1qsr-1ak"
   categories: [Social Stock Exchange]
@@ -108,12 +108,33 @@
   url: "https://guidestarindia.frappe.cloud/files/SSE%20Resources.pdf"
   categories: [Social Stock Exchange]
 
-- name: BSE Social Stock Exchange site
-  description: Official site for the BSE - SSE
+- name: 2 - BSE SSE Homepage
+  description: 
   url: "https://www.bsesocialstockexchange.com/"
   categories: [Social Stock Exchange]
 
-- name: NSE Social Stock Exchange site
-  description: Official site for the NSE - SSE
-  url: "https://www.nseindia.com/sse"
+- name: 4 - NSE SSE Homepage
+  description: 
+  url: "https://www.nseindia.com/static/sse"
   categories: [Social Stock Exchange]
+  
+- name: 3 - BSE Disclosu  res by NPOs:
+  description:
+  url: "https://www.bsesocialstockexchange.com/DisclosureDisplay.aspx"
+  categories: [Social Stock Exchange]
+
+- name: 5 - NSE Disclosures by NPOs:
+  description:
+  url: "https://www.nseindia.com/companies-listing/corporate-filings-announcements"
+  categories: [Social Stock Exchange]
+
+- name: 6 - GuideStar India Transparency Profiles of NPOs on SSEs
+  description: Click to view the transparency profile of NPOs on India’s most exhaustive NPO Information Repository 
+  url: "https://guidestarindia.org/search?AdvancedSearch=%7B%22sse_listing%22%3A%22Yes%22%7D&advancedSearchMiniTab=%7b%22SSE%20Listing%22:true%7d&advancedSearchTab=%22Financial%22"
+  categories: [Social Stock Exchange]
+
+- name: 7 - GuideStar India Resources for SSE
+  description:
+  url: "https://resources.guidestarindia.org/social-stock-exchange.html"
+  categories: [Social Stock Exchange]
+
