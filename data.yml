@@ -129,7 +129,7 @@
   categories: [Social Stock Exchange]
 
 - name: 6 - GuideStar India Transparency Profiles of NPOs on SSEs
-  description: Click to view the transparency profile of NPOs on India’s most exhaustive NPO Information Repository 
+  description: Click here to view the transparency profile of NPOs on India’s most exhaustive NPO Information Repository 
   url: "https://guidestarindia.org/search?AdvancedSearch=%7B%22sse_listing%22%3A%22Yes%22%7D&advancedSearchMiniTab=%7b%22SSE%20Listing%22:true%7d&advancedSearchTab=%22Financial%22"
   categories: [Social Stock Exchange]
 
