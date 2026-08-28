@@ -116,11 +116,11 @@
   url: "https://www.nseindia.com/static/sse"
   categories: [Social Stock Exchange]
   
-- name: "3 - BSE Disclosures by NPOs:"
+- name: "3 - BSE Disclosures by NPOs"
   url: "https://www.bsesocialstockexchange.com/DisclosureDisplay.aspx"
   categories: [Social Stock Exchange]
 
-- name: "5 - NSE Disclosures by NPOs:"
+- name: "5 - NSE Disclosures by NPOs"
   url: "https://www.nseindia.com/companies-listing/corporate-filings-announcements"
   categories: [Social Stock Exchange]
 
