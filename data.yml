@@ -105,7 +105,7 @@
 
 - name: Resources for more information about SSE
   description: GuideStar India's page with resource links and reads for SSE
-  url: "https://guidestarindia.frappe.cloud/files/SSE%20Resources.pdf"
+  url: "https://guidestarindia.frappe.cloud/files/SSE-Resources.pdf"
   categories: [Social Stock Exchange]
 
 - name: 2 - BSE SSE Homepage
@@ -118,7 +118,7 @@
   url: "https://www.nseindia.com/static/sse"
   categories: [Social Stock Exchange]
   
-- name: 3 - BSE Disclosu  res by NPOs:
+- name: 3 - BSE Disclosures by NPOs:
   description:
   url: "https://www.bsesocialstockexchange.com/DisclosureDisplay.aspx"
   categories: [Social Stock Exchange]
